@@ -13,4 +13,4 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: My Zen place is where I go while cleaning my house 🧼🧽🧹  There is something very soothing about mopping floors, washing dishes, and getting rid of clutter - I guess it's like "wax on, wax off..."
 
-<a href="https://app.daily.dev/nelcapetown"><img src="https://api.daily.dev/devcards/67c610fb1bfe41f38361ac7268cb071a.png?r=zn6" width="400" alt="Nel Prinsloo's Dev Card"/></a>
+<center><a href="https://app.daily.dev/nelcapetown"><img src="https://api.daily.dev/devcards/67c610fb1bfe41f38361ac7268cb071a.png?r=zn6" width="400" alt="Nel Prinsloo's Dev Card"/></a></center>
